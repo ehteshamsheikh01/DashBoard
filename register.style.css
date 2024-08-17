@@ -1,0 +1,57 @@
+.bg-color{
+    background-color:white;
+}
+.form-bg{
+    background-color:  white;
+    text-align: center;
+}
+#firstName{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+
+}
+#lastName{
+margin: 20px 20px 20px 20px;
+padding: 10px 10px 10px 10px;
+
+}
+#email{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+#pasword{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+
+#userName{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+
+h1{
+    padding: 10px 10px 10px 10px;
+}
+h3{
+    background-color: blue;
+    color: black;
+}
+#tag{
+  align-items: center;
+}
+.btn{
+    margin-bottom: 20px;
+}
+.tag{
+  text-align: center;
+}
+#email{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+#pasword{
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}

@@ -1,0 +1,32 @@
+h3{
+    background-color:rgba(0, 0, 255, 0.671);
+    color: white;
+}
+h1{
+    background-color: white;
+    color: black;
+}
+h2{
+   text-align: center;
+}
+bg-color{
+    background-color:rgba(128, 128, 128, 0.183);
+}
+form{
+    text-align: center;
+}
+#placeholder{
+    margin: 5px 5px 5px 5px;
+    padding: 5px 100px ;
+}
+#mind{
+    margin: 5px 5px 5px 5px;
+    padding: 10px 100px 50px 100px;
+}
+.bg-form{
+background-color: white;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+}
